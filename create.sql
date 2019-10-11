@@ -1,1 +1,1 @@
-create table sample(int id,name varchar(255));
+create table sample(id int,name varchar(255));
