@@ -1,1 +1,1 @@
-upadate sample set name='menakha duraisamy'where name='menakha';
+update sample set name='menakha duraisamy'where id=1;
