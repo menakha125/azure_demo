@@ -1,1 +1,1 @@
-alter table sample name,identify
+alter table sample name,identify;
